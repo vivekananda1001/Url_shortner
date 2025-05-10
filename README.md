@@ -1,6 +1,6 @@
-This is a basic URL shortner I made as a practice project for the day that uses TinyURL API.
-  Feel free to replicate and host!
-  Screenshots:
+This is a basic URL shortner I made as a practice project for the day that uses TinyURL API.  
+  Feel free to replicate and host!  
+  Screenshots:  
 
 ![Screenshot 2025-05-10 at 4 01 30 PM](https://github.com/user-attachments/assets/0ff320a3-133b-416a-99fb-33374695b065)
 
